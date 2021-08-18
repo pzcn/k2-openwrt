@@ -14,4 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git luci-app-argon-config https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
+# echo 'src-git luci-app-argon-config https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
