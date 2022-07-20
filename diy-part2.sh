@@ -11,5 +11,4 @@
 #
 
 # Modify default IP
-sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generate
-sed -i 's/PATCHVER:=5.4/PATCHVER:=5.10/g' target/linux/ramips/Makefile
+sed -i 's/192.168.15.1/192.168.5.1/g' package/base-files/files/bin/config_generate
